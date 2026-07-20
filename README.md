@@ -37,3 +37,24 @@ This pattern — user pool for *authentication*, identity pool for *authorizatio
 
 ## Notes
 This project was built as part of a guided AWS training lab. Only the configuration and integration code I modified/authored is included here; it is not a redistribution of the full training courseware.
+
+
+## Screenshots
+
+**User authentication working (Sightings page)**
+![Sightings page](screenshot-sightings-page.png)
+
+**Role-based admin access**
+![Admin page](screenshot-admin-page.png)
+
+**Temporary AWS credentials + DynamoDB query success**
+![DynamoDB validation](screenshot-dynamodb-validation.png)
+
+**DynamoDB table**
+![DynamoDB table](screenshot-dynamodb-table.png)
+
+**Cognito User Pool configuration**
+![User pool console](screenshot-user-pool-console.png)
+
+**Cognito Identity Pool configuration**
+![Identity pool console](screenshot-identity-pool-console.png)
